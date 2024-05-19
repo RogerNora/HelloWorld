@@ -1,0 +1,26 @@
+h2 {
+    color: orange;
+}
+
+body {
+    background-color: #4f4f4f;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 2px solid green;
+}
+
+footer {
+    border-top: 2px solid green;
+}
+
+#nome_aluno{
+    font-weight: bolder;
+}
+
+.texto_ingles {
+    font-style: italic;
+}
